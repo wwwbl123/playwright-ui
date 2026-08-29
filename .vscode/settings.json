@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "allure_report"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

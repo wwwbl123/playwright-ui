@@ -1,0 +1,5 @@
+for each--start: 打开添加项目页
+新增项目名称: 0ed198dc4454485eb665698d6
+获取页面 table 表格-项目名称列全部内容: ['0ed198dc4454485eb665698d6', 'bca65a2075284505ae5b7ac96', 'd6132cf9ee8e42ebaf5c5becf', '4c5955d0eebc46feae0a41302', 'cb1a646bc7914d1ca44fc3623', 'cd10b734c1874b14bee07dac7', '5317bb8832c14bfe8033db38d', '50fd44b25573490fb31805f6f', '90dc9d874e3940478e2da771d', '7dd08e487eef40ee84a229724', 'd35ff7737dfb49f79f7d868f2', 'f74be64df44e4f07ab89831ef', '8c3a863bdecd4c22b0891cd4c', '9eb138312ff24c86a63ec301f', '614bd0848aec460385291598e']
+for each--end: 后置操作
+capture_screenshot:False
